@@ -53,14 +53,3 @@ bun run dev:android
 
 This will open the app in the iOS simulator or Android emulator.
 
-### Contributions
-
-Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug. Totally open to any suggestions and improvements.
-
-### License
-
-See [LICENSE](LICENSE) for more information.
-
----
-
-[Expo starter](expostarter.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40y0x53)](https://twitter.com/y0x53)
